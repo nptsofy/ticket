@@ -41,7 +41,7 @@ function createTicketEmbed() {
     .setTitle("Casio Tickets")
     .setColor("#010101")
     .setDescription("Please select the reason for opening a ticket.")
-    .setImage("https://media.discordapp.net/attachments/1422258959548551230/1480216888473813128/IMG_2877.gif");
+    .setImage("https://media.discordapp.net/attachments/1422258959548551230/1483152831900028948/IMG_3231.gif?ex=69b98d36&is=69b83bb6&hm=a6c14988b9ed8c310093e48694b8ba46c2eefd7992ca76e919ecdfa95cd779ed&=&width=1450&height=864");
 }
 
 function createTicketMenu() {
