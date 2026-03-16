@@ -54,19 +54,19 @@ function createTicketMenu() {
           label: "Help",
           description: "Get assistance from staff",
           value: "help",
-          emoji: "<a:826348blackbat:1452868339029512352>"
+          emoji: "<a:ego:1482808831347134595>"
         },
         {
           label: "Partnership",
           description: "Request a partnership",
           value: "partner",
-          emoji: "<a:826348blackbat:1452868339029512352>"
+          emoji: "<a:ego:1482808831347134595>"
         },
         {
           label: "Verify",
           description: "Verify your identity",
           value: "verify",
-          emoji: "<a:826348blackbat:1452868339029512352>"
+          emoji: "<a:ego:1482808831347134595>"
         }
       ])
   );
